@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/SuperCircus.slnx/v18/.wsuo
+/.vs/SuperCircus.slnx/FileContentIndex/5b284d31-3b61-4ae4-b689-8d4b6117a0b4.vsidx
+/.vs/SuperCircus.slnx/FileContentIndex/59e714c6-4674-4805-869a-28d3364b08ef.vsidx
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/SuperCircus.slnx/FileContentIndex
+/.vs/SuperCircus.slnx/v18
